@@ -24,13 +24,13 @@ Choisissez tout de suite de travailler en **ANGLAIS** et donc utilisez le site c
 
 https://azureforeducation.microsoft.com/en-us/Institutions 
 
-![AzureforTeaching](..\images\AzureforTeaching.png)
+![AzureforTeaching](../images/AzureforTeaching.png)
 
 Connectez-vous sur cette plateforme avec votre compte ...@student.hepl.be.
 
 Dans l’onglet « Products », choisir « Developer Tools », sélectionnez Visual Studio
 
-![AzureDownloadVS](..\images\AzureDownloadVS.png)
+![AzureDownloadVS](../images/AzureDownloadVS.png)
 
 Appuyez sur le Bouton « Download Visual Studio ».
 
