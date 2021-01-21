@@ -1,6 +1,6 @@
 # Procédure d'installation des outils du cours
 
-# Programmation C# - base (2019-2020)
+# Programmation C# base et C# avancé
 
 ## Profil d'étudiants
 
@@ -48,13 +48,11 @@ Dans l’onglet « Modules linguistique »
 
 Personnellement j’ai ajouté le module « développement de jeux avec Unity ». Dans cette configuration, 9.19 GB sont nécessaires pour l’installation.
 
-Les étudiants qui souhaitent conserver leur version de Visual Studio 2017 installée l’année dernière le peuvent.
-
 Après avoir installé l’application (éventuellement en français), démarrez-là. Cela prend un peu plus de temps la première fois. Utilisez le menu Outils->Options pour accéder aux options. Dans Environnement -> Paramètre internationaux : Choisir « English ».
 
 Redémarrer Visual Studio pour bénéficier des nouveaux paramètres.
 
-Installez l’extension GitHub pour pouvoir gérer le versionnement de votre code source.
+Installez l’extension GitHub pour pouvoir gérer les versions de votre code source.
 
 https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio
 

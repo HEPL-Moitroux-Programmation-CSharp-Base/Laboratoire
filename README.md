@@ -1,2 +1,2 @@
 # Laboratoire
-Enoncé, remarques, tips concernant le laboratoire
+Enoncés, remarques, tips concernant le laboratoire
